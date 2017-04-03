@@ -1,7 +1,8 @@
-Project Rewood API
-built in PHP using the symfony2.0 framework.
+</h1>Project Rewood API</h1>
+<h3>built in PHP using the symfony2.0 framework.</h3>
 
-Current progress =
+<b>Current progress</b>
+<br />
 Compeleted Registration for new users.
 Completed Login. 
 Completed Logout. 
