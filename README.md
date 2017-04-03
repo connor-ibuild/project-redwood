@@ -1,4 +1,4 @@
-</h1>Project Rewood API</h1>
+<h1>Project Rewood API</h1>
 <h3>built in PHP using the symfony2.0 framework.</h3>
 
 <b>Current progress</b>
@@ -6,7 +6,7 @@
 <li>Compeleted Registration for new users.</li>
 <li>Completed Login.</li>
 <li>Completed Logout.</li>
-<li>Only allowing access to authenticated users.</li>
+<li>Only allowing access to authenticated users using a Token.</li>
 <li>Password encryption.</li>
 <br />
 <br />
